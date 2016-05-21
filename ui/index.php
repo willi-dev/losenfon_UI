@@ -63,23 +63,23 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-4">
-                                    <a href="#"><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+                                    <a href="#"><img src="https://unsplash.imgix.net/photo-1422222948315-28aadb7a2cb8?fm=jpg&amp;s=cfeadbd7a991e58b553bee29a7eeca55" class="img-responsive"></a>
                                     <h3 class="text-primary">Heading</h3>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="#"><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+                                    <a href="#"><img src="https://unsplash.imgix.net/photo-1423347834838-5162bb452ca7?fm=jpg&amp;s=c255e589621f06513c1d123c7323fe9c" class="img-responsive"></a>
                                     <h3 class="text-primary">Heading</h3>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="#"><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+                                    <a href="#"><img src="https://unsplash.imgix.net/photo-1417128281290-30a42da46277?fm=jpg&amp;s=2edb796eb5e657f2c82704a1e6573938" class="img-responsive"></a>
                                     <h3 class="text-primary">Heading</h3>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="#"><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+                                    <a href="#"><img src="https://unsplash.imgix.net/reserve/MTuhqSiPQbeVnaIYU16X_P1160798_adj.jpg?fm=jpg&amp;s=ede6dca4fff55fa0cc6ec27bcd3480d9" class="img-responsive"></a>
                                     <h3 class="text-primary">Heading</h3>
                                 </div>
                                 <div class="col-md-4">
-                                    <a href="#"><img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png" class="img-responsive"></a>
+                                    <a href="#"><img src="https://ununsplash.imgix.net/photo-1421098518790-5a14be02b243?fm=jpg&amp;s=24665881d66f79925810c2deb7e486b9" class="img-responsive"></a>
                                     <h3 class="text-primary">Heading</h3>
                                 </div>
                                 <div class="col-md-4">
